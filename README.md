@@ -1,7 +1,3 @@
-Certainly! Here’s the `README.md` file with the table of screenshots included. The table has screen numbers as headers, and the second screen contains two images in its column, while the others have one image each.
-
----
-
 # TimeLine (Лента Времени РФ)
 
 TimeLine is an educational tool designed to make learning Russian history accessible and engaging. It allows users to immerse themselves in the most significant events in chronological order, providing a visualized timeline of Russian historical events.
