@@ -1,4 +1,4 @@
-Here's an updated version of the `README.md` file with emojis added for better visual appeal, and placeholders for screenshots:
+Certainly! Here’s the `README.md` file with the table of screenshots included. The table has screen numbers as headers, and the second screen contains two images in its column, while the others have one image each.
 
 ---
 
@@ -28,19 +28,21 @@ The goal of the project is to develop an application that provides a visual time
 
 1. **Main Timeline Screen**: Displays the timeline of Russian historical events in chronological order. Users can scroll vertically to explore different periods.
 
-   ![Main Timeline Screen](https://drive.google.com/file/d/1VzChLc9zI4iPXPWyLsabYLCLIK8rtz3S/view?usp=share_link)
-
 2. **Event Detail Screen**: Provides a detailed overview of the selected historical event, including illustrations, descriptions, and its significance.
 
-   ![Event Detail Screen](#) <!-- Insert the screenshot link here -->
-
-3. **Ruler List Screen**: Displays a list of Russian rulers, categorized by dynasties and centuries. Users can tap on each ruler to learn more about their reign.
-
-   ![Ruler List Screen](#) <!-- Insert the screenshot link here -->
+3. **Ruler List Screen**: Displays a list of Russian rulers, categorized by dynasties and centuries. Users can tap on each ruler to learn more about their reign on Wikipedia.
 
 4. **Century Filter Screen**: Allows users to select a specific century and see the rulers associated with that period.
 
-   ![Century Filter Screen](#) <!-- Insert the screenshot link here -->
+## 📷 Screenshots
+
+| 1.1                                    | 1.2                                                            | 2.1                                    | 2.2                                    |
+|--------------------------------------|--------------------------------------------------------------|--------------------------------------|--------------------------------------|
+| ![Main Timeline Screen](https://drive.google.com/uc?export=view&id=1H0v3LTG5JPD28eoMvMZStMBRtThnLcDV)           | ![Event Detail Screen 1](https://drive.google.com/uc?export=view&id=1-VWvTEx7NL1IPSFwyXiitU-ybcNJJBcm) | ![Ruler List Screen](https://drive.google.com/uc?export=view&id=1Y4VeGrBaT5trbquxP57LzTGcY0JWQ7vA)              | ![Century Filter Screen](https://drive.google.com/uc?export=view&id=1P_8PW4lRS10gTEKF2MBovdTLsfGUQ__2)          |
+
+| 3.1                                    | 3.2                                                            | 4                                    | 5* (Creators)                                    |
+|--------------------------------------|--------------------------------------------------------------|--------------------------------------|--------------------------------------|
+| ![Main Timeline Screen](https://drive.google.com/uc?export=view&id=1vIDRroZQxzmlnNJ4sBPF_1Mz6VPVASbw)           | ![Event Detail Screen 1](https://drive.google.com/uc?export=view&id=1Hbp__1rfL0EASMViNHjJl8clq7LryprA) | ![Ruler List Screen](https://drive.google.com/uc?export=view&id=1g3xyP8DPeWa7Swa-BeqvccjlUKlae0QZ)              | ![Century Filter Screen](https://drive.google.com/uc?export=view&id=1ei4O_HRmtchlLXqAbPO8EutBEajNqimx)          |
 
 ## 🛠️ Technologies Used 
 
@@ -63,7 +65,3 @@ The app was previously available for download via TestFlight. Unfortunately, it 
 ## ⚖️ License 
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-The emojis should make the sections more engaging, and the placeholders indicate where to insert the screenshots. You can replace the `(#)` with the actual URLs of your screenshots once they are hosted online (e.g., on GitHub, Imgur, or any other image hosting service).
