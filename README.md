@@ -13,6 +13,8 @@ The goal of the project is to develop an application that provides a visual time
 3. Gather detailed information on the chosen events.
 4. Develop an interactive application to present this information.
 
+This project was completed as part of the course "Fundamentals of Russian Statehood".
+
 ## ✨ Features
 
 - **Chronological Timeline of Events**: The app opens to a main screen where all major events in Russian history are listed in chronological order. Users can scroll through the timeline from ancient times to the present, selecting periods of interest.
